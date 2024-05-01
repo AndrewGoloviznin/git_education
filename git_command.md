@@ -24,3 +24,4 @@
 1. git branch - команда выводит список веток, выделяя текущую. 
 2. git branch name_branch - команда создает новую ветку
 3. git checkout name_branch - команда переводит на новую ветку
+4. git branch -d name_branch - команда удаляет указанную ветку
